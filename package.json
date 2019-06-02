@@ -1,0 +1,23 @@
+{
+  "name": "comp-2068-monday",
+  "version": "1.0.0",
+  "description": "blogging platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitesh0304/comp-2068-Monday.git"
+  },
+  "author": "Hitesh Moudgil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hitesh0304/comp-2068-Monday/issues"
+  },
+  "homepage": "https://github.com/Hitesh0304/comp-2068-Monday#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
